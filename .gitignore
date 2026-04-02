@@ -1,0 +1,49 @@
+# ===== Flutter / Dart =====
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# ===== IDE =====
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ===== Android =====
+android/.gradle/
+android/app/build/
+android/local.properties
+*.keystore
+*.jks
+
+# ===== iOS =====
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Xcode
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Environment =====
+.env
+.env.*
+
+# ===== Misc =====
+coverage/
